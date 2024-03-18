@@ -2,6 +2,7 @@
 This project is a simple fullstack blog with User dashboard aims to teach all the basics to build a fullstack App.
 
 ![My Image](public/images/home.png)
+
 ![My Image](public/images/dashboard.png)
 
 # Features:

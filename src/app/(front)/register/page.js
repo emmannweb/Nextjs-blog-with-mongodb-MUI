@@ -185,7 +185,7 @@ const Register = () => {
                             helperText={touched.username && errors.username}
                         />
 
-                        <Button fullWidth variant="contained" type='submit' sx={{ bgcolor: "#212121", '&:hover': { bgcolor: 'black' } }} >Log In</Button>
+                        <Button fullWidth variant="contained" type='submit' sx={{ bgcolor: "#212121", '&:hover': { bgcolor: 'black' } }} >register</Button>
 
                     </Box>
 
